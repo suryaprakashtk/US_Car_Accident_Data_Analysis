@@ -1,0 +1,1 @@
+print("Welcome to Team 8 ECE143 Course Final Project")
