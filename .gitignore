@@ -166,3 +166,9 @@ cython_debug/
 Dataset/*
 !Dataset/.gitkeep
 
+# Virtual Environment Folders (On Windows)
+Lib/*
+Scripts/*
+*.cfg
+# Dataset CSV
+*.csv
