@@ -8,3 +8,6 @@
 ### 4. Check that files created from Virtual Environment and CSV file are in gitIgnore
 ### 5. Make Improvements/Changes and update dependencies (pip freeze > requirements.txt)
 ### 6. Push Changes to your branch and make a pull request to merge to main
+
+### Resources
+https://github.com/joshnh/Git-Commands
