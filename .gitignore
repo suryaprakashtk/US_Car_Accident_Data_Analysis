@@ -175,3 +175,6 @@ Scripts/*
 
 # MacOS .DS_Store
 .DS_Store
+
+# Virtual Environment Folders (Mac)
+bin/*
