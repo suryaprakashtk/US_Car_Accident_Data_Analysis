@@ -1,13 +1,8 @@
 # US_Car_Accident_Data_Analysis
-### Download Dataset on kaggle: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+## Dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+This is a countrywide car accident dataset that covers 49 states of the USA. The accident data were collected from February 2016 to March 2023, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by various entities, including the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road networks. The dataset currently contains approximately 7.7 million accident records.
+## Description
+By analyzing the time, weather conditions, location and severity of the accident, we can find out how to avoid it and what measures can be taken if it cannot be avoided.
+## Usage
+All of the code has been merged into the presentation.ipynb file. And important visualization have been showed in files.
 
-## How to Contribute to Repo
-### 1. Downlaod Dataset Folder from Kaggle and Unzip
-### 2. Clone Repo and create a new branch
-### 3. Add CSV file Dataset to repo and Create Virtual Environment (python -m venv .) Download Dependencies pip install -r requirements.txt
-### 4. Check that files created from Virtual Environment and CSV file are in gitIgnore
-### 5. Make Improvements/Changes and update dependencies (pip freeze > requirements.txt)
-### 6. Push Changes to your branch and make a pull request to merge to main
-
-### Resources
-https://github.com/joshnh/Git-Commands
